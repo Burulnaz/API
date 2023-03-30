@@ -1,0 +1,32 @@
+.films{
+    width: 100%;
+    margin: 0 auto;
+    /* padding: 10 px; */
+    border: 1px solid rgb(8, 7, 7);
+    display: flex;
+    /* align-items: ; */
+    justify-content: center;
+    flex-wrap: wrap;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh29yQF42Fs9asoFJ6Kzu9bD35M4TuTis_5A&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.movie {
+    width: 300px;
+    padding: 5px;
+    background-color: rgb(14, 14, 34);
+    text-align: center;
+    color: white;
+    font-size: larger;
+    border-radius: 0%;
+  
+}
+
+#fontS{
+    color: rgb(255, 255, 255);
+    font-size: inherit;
+    background-size: cover;
+}
